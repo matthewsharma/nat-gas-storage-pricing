@@ -3,6 +3,7 @@
 This project analyzes and plots data of natural gas storage prices and then extrapolates it for an extra year. The data is from the J.P. Morgan Quantitative Research Forage task.
 
 The notebook "nat_gas_pricing.ipynb" :
+
 Task 1:
 - Loads monthly natural gas prices from "Nat_Gas.csv".
 - Visualizes historical prices and interpolates to a daily time series.
